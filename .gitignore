@@ -1,1 +1,7 @@
 node_modules
+gulp
+gulpfile.js
+package.json
+package-package-lock.json
+ReedMe.txt
+
